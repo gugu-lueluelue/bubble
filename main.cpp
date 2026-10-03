@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
 //add a tip
+    //test2
     int a[8] = {0};
     cout << "Enter 8 numbers:" ;
     for (int i = 0; i < 8; i++) {
