@@ -1,0 +1,10 @@
+# CLion & CMake
+cmake-build-*/
+.idea/
+*.o
+*.exe
+*.elf
+*.bin
+# 系统文件
+.DS_Store
+Thumbs.db
